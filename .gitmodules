@@ -1,0 +1,6 @@
+[submodule "orion-test-submodule-child1"]
+        path = orion-test-submodule-child1
+        url = git@github.com:oriongittester/orion-test-submodule-child1.git
+[submodule "orion-test-submodule-child2"]
+	path = orion-test-submodule-child2
+	url = git@github.com:oriongittester/orion-test-submodule-child2.git
